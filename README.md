@@ -1,8 +1,13 @@
-It's Mohammad Hosseini
+It's Mohammad Hosseini!
+
 Embedded system engineer
+
 STM32 developer
+
 Specialized in driving PMSM & BLDC motors
+
 www.esfdrive.ir
+
 its.mim.hosseini@gmail.com
 
 <!---
